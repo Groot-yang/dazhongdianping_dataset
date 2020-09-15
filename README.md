@@ -1,2 +1,2 @@
 # dazhongdianping_dataset
-dazhongdianping_dataset文件是从大众点评网的店铺中爬取的数据。
+dazhongdianping_dataset文件是从大众点评网的店铺中爬取的数据，它包含了130家商铺共计22009条评论数据。
